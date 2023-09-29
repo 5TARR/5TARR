@@ -2,7 +2,7 @@
 
 Our Services are one of many in this world and are fast and amazing. Read on too know why, our services are one of the best in the **entire world!** 
 
-Check out our discord at [editable.website](discord.gg/Z4ghqBd4SU).
+Check out our discord at [discord.gg/Z4ghqBd4SU](discord.gg/Z4ghqBd4SU).
 
 See it out in the wild at [sonjastojanovic.com](https://sonjastojanovic.com), [nisse.tech](https://nisse.tech), [michaelaufreiter.com](https://michaelaufreiter.com), [postowl.com](https://postowl.com)
 and [officegallery.cz](https://officegallery.cz).
