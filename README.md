@@ -1,4 +1,4 @@
-# editable-website
+# WORLD-SERVICES
 
 A SvelteKit template for coding **completely custom websites**, while allowing non-technical people to **make edits** to the content by simply logging in with a secure admin password.
 
