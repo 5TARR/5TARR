@@ -1,8 +1,8 @@
 # WORLD-SERVICES
 
-A SvelteKit template for coding **completely custom websites**, while allowing non-technical people to **make edits** to the content by simply logging in with a secure admin password.
+Our Services are one of many in this world and are fast and amazing. Read on too know why, our services are one of the best in the **entire world!** 
 
-Check out the demo at [editable.website](https://editable.website).
+Check out our discord at [editable.website](discord.gg/Z4ghqBd4SU).
 
 See it out in the wild at [sonjastojanovic.com](https://sonjastojanovic.com), [nisse.tech](https://nisse.tech), [michaelaufreiter.com](https://michaelaufreiter.com), [postowl.com](https://postowl.com)
 and [officegallery.cz](https://officegallery.cz).
